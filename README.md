@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Diamond! 👋
+I enjoy creating and contributing to projects that people find genuinely useful. My interests are: game development, AI, computer graphcis and open source software. I currently use Fedora Linux! I also manage 20+ docker microservices running on my linux homelab server.\
+\
+🦾 I'm comfortable with: \
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,cs,java,python,ruby,idea,docker,linux,sqlite,git,unity)](https://skillicons.dev) \
+\
+I'm currently learning: \
+[![My Skills](https://skillicons.dev/icons?i=blender,rust,gtk)](https://skillicons.dev) \
+\
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneshinyboi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **oneshinyboi/oneshinyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
