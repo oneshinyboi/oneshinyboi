@@ -4,7 +4,7 @@ I enjoy creating and contributing to projects that people find genuinely useful.
 🦾 I'm comfortable with: \
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,cs,java,python,ruby,idea,docker,linux,sqlite,git,unity)](https://skillicons.dev) \
 \
-I'm currently learning: \
+🌱 I'm currently learning: \
 [![My Skills](https://skillicons.dev/icons?i=blender,rust,gtk)](https://skillicons.dev) \
 \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneshinyboi)](https://github.com/anuraghazra/github-readme-stats)
